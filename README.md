@@ -3,7 +3,7 @@ Poke | Team Picker
   <br>
   <br>
 
-  <img src="public/favicon.png" alt="FOODFY LOGO" width="300">
+  <img src="public/favicon.png" alt="FOODFY LOGO" width="200">
 
   <br>  
   <br>
